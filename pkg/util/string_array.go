@@ -1,4 +1,4 @@
-package json2csv
+package util
 
 import (
 	"fmt"
